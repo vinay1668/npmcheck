@@ -28,6 +28,8 @@ go run cmd/npmcheck/main.go
 
 ## Sample Output
 
+
+```bash
 Package: @react-google-maps/api
 Current Version: 2.2.0
 Latest Version: 2.20.6
@@ -72,3 +74,4 @@ Package: bootstrap-icons
 Current Version: 1.5.0
 Latest Version: 1.11.3
 -------------------
+```
